@@ -73,8 +73,8 @@
   -
   
 ## API
+![1](https://user-images.githubusercontent.com/110075438/186651377-3d746999-ad83-4aa8-8b65-453968b70c07.PNG)
+![2](https://user-images.githubusercontent.com/110075438/186651410-1075a4f5-190e-4461-b3fa-c91f27e5f3fc.PNG)
 
-##ERD
-  
-  
-  
+## ERD
+![sparta_Hwork02_ERD (1)](https://user-images.githubusercontent.com/110075438/186651524-b3e5dc65-74a0-4567-9872-564d55bbb276.png)
